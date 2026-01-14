@@ -10,7 +10,11 @@
 
 **A modern, full-stack freelance marketplace with real-time features and premium UI/UX**
 
-[Live Demo](#-demo-credentials) · [Features](#-key-features) · [Installation](#-installation) · [Tech Stack](#-tech-stack)
+### 🌐 Live Demo
+**Frontend:** [https://gig-flow-git-main-abhas-jaltares-projects.vercel.app](https://gig-flow-git-main-abhas-jaltares-projects.vercel.app)  
+**Backend API:** [https://gigflow-wljp.onrender.com](https://gigflow-wljp.onrender.com)
+
+[Features](#-key-features) · [Installation](#-installation) · [Tech Stack](#-tech-stack) · [Demo Credentials](#-demo-credentials)
 
 </div>
 
