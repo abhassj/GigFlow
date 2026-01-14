@@ -271,7 +271,7 @@ gigflow---freelance-marketplace/
 
 ---
 
-## 📸 Screenshots
+
 
 ### Home Page
 Modern landing page with hero section and latest gigs.
@@ -323,7 +323,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@abhass3j](https://github.com/abhass3j)
+- GitHub: [@abhassj](https://github.com/abhassj)
 
 ---
 
